@@ -1,5 +1,19 @@
 ## Introduction for Peer Asssessment 1
 
+### Revised for Assignment
+The data is downloaded and unzipped if necessary. First the data is read
+in and missing values removed. Step totals are computed for each day and the
+frequency of these totals is plotted in a histogram. The averages for each
+interval are computed across all days and plotted as a line plot.
+
+The average values are used to fill in missing values and the totals 
+recomputed and another histogram is created.
+
+The new data is also used to compare the activity averages per interval
+between weekends and weekdays. These are shown as two line plots in
+a panel.
+
+### Original
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
 [Fitbit](http://www.fitbit.com), [Nike
